@@ -1,0 +1,201 @@
+[33mcommit fd7f73dd0ded18c7a93189085e7661b2613ec125[m[33m ([m[1;36mHEAD -> [m[1;32mmohammad[m[33m)[m
+Merge: 7942a5e 61116db
+Author: mohammad <mrg2195@gmail.com>
+Date:   Mon Jun 21 00:08:44 2021 -0700
+
+    Merge branch 'shayan' of https://github.com/ClOsSe/damdaran-pak into mohammad
+
+[33mcommit 61116db51458f4c3b536ef8262121f1386016af5[m[33m ([m[1;31morigin/shayan[m[33m)[m
+Author: shayan <shayanazadbakht1781@gmail.com>
+Date:   Mon Jun 21 10:14:34 2021 +0430
+
+    debug function loader
+
+[33mcommit d3673ba557f90a1d6967d0ca0dd9394ae846c957[m
+Author: shayan <shayanazadbakht1781@gmail.com>
+Date:   Mon Jun 21 10:03:04 2021 +0430
+
+    contact compunennt crated
+
+[33mcommit 7942a5e2f40d48f81bcd55457d5a58f363b6471d[m[33m ([m[1;31morigin/mohammad[m[33m)[m
+Author: mohammad <mrg2195@gmail.com>
+Date:   Sun Jun 20 22:32:20 2021 -0700
+
+    faq components created
+
+[33mcommit b57a3753a2e881aa6e72f7db390bc564e6e521ec[m
+Merge: 36f7988 ba60a29
+Author: shayan <shayanazadbakht1781@gmail.com>
+Date:   Mon Jun 21 09:38:25 2021 +0430
+
+    Merge branch 'mohammad' of https://github.com/ClOsSe/damdaran-pak into shayan
+
+[33mcommit ba60a29c61fde0cebf88c89a8841e6eaee493251[m
+Author: mohammad <mrg2195@gmail.com>
+Date:   Sun Jun 20 21:57:25 2021 -0700
+
+    contact page WBS/components created for shayan azadbakht
+
+[33mcommit 73a11b2ded17f7c6ed765df3986fb8caaabc4875[m
+Author: mohammad <mrg2195@gmail.com>
+Date:   Sun Jun 20 07:35:31 2021 -0700
+
+    blogPost component created and aded to the blog pages
+
+[33mcommit 5703ec1c8658219fe71431c1a0c629ff16beabc1[m
+Author: mohammad <mrg2195@gmail.com>
+Date:   Sun Jun 20 07:13:05 2021 -0700
+
+    about us page components added
+
+[33mcommit 36f7988d38d414a46c14fe002d9bf6316bab4d09[m
+Merge: 05dea38 daecb44
+Author: shayan <shayanazadbakht1781@gmail.com>
+Date:   Sun Jun 20 18:41:10 2021 +0430
+
+    Merge branch 'shayan' of https://github.com/ClOsSe/damdaran-pak into shayan
+
+[33mcommit 05dea38fe5e5e14efc18aba343c9bf357c6d2cab[m
+Merge: c436435 d6aea21
+Author: shayan <shayanazadbakht1781@gmail.com>
+Date:   Sun Jun 20 18:30:30 2021 +0430
+
+    Merge branch 'mohammad' of https://github.com/ClOsSe/damdaran-pak into shayan
+
+[33mcommit d6aea21e24f38c833806d6dbcb63d13c0741680d[m
+Author: mohammad <mrg2195@gmail.com>
+Date:   Sun Jun 20 06:50:22 2021 -0700
+
+    register order form and subscribe components added to the register order page
+
+[33mcommit 1dd2be0fbef6281d284644e4d433783efd844897[m
+Author: mohammad <mrg2195@gmail.com>
+Date:   Sun Jun 20 06:40:48 2021 -0700
+
+    aboutUs commponent added to the about components in index
+
+[33mcommit c436435181a8d7e7a33fe5fa6b7b22293d44deee[m
+Author: shayan <shayanazadbakht1781@gmail.com>
+Date:   Sun Jun 20 18:06:04 2021 +0430
+
+    rispansive banner compounent
+
+[33mcommit 2398f53d056b30b3092dd08a8b2aa187906dcd2f[m
+Author: mohammad <mrg2195@gmail.com>
+Date:   Sun Jun 20 06:19:15 2021 -0700
+
+    loade added to the pages components
+
+[33mcommit 6c847cb2554a50ce17e4442e5aef2d3f629d2e75[m
+Author: mohammad <mrg2195@gmail.com>
+Date:   Sun Jun 20 06:11:49 2021 -0700
+
+    loader component moved
+
+[33mcommit 4cbc635f99c3e741108974e5ca4a5598cd1d1b2b[m
+Author: mohammad <mrg2195@gmail.com>
+Date:   Sun Jun 20 06:05:21 2021 -0700
+
+    register order form and estimate(means about us)
+
+[33mcommit d23f6863d46553c651a18d8a1db9939219bce238[m
+Author: mohammad <mrg2195@gmail.com>
+Date:   Sun Jun 20 05:27:47 2021 -0700
+
+    notings change
+
+[33mcommit 4af296763fb0c80398ddd89daaaf14244fbe17db[m
+Author: mohammad <mohammadeng3731@gmail.com>
+Date:   Sun Jun 20 05:25:03 2021 -0700
+
+    choose component -> about component with 3 cart fixed
+
+[33mcommit daecb44fef1cead4909793c59a34521d0e2f0854[m
+Author: mohamamd <mawebcoder@gmail.com>
+Date:   Sun Jun 20 16:54:56 2021 +0430
+
+    mohamad
+
+[33mcommit f99b058cc0f0964d340f56836cebc3a784abf02f[m
+Author: shayan <shayanazadbakht1781@gmail.com>
+Date:   Sun Jun 20 16:47:45 2021 +0430
+
+    delete add text
+
+[33mcommit 0ab50af4fbb9fffe3fcc0afcb9529a0a58d646fe[m
+Author: shayan <shayanazadbakht1781@gmail.com>
+Date:   Sun Jun 20 16:46:32 2021 +0430
+
+     add text
+
+[33mcommit 287f0ae4fd9343e5a00fa90d0ffd48417679bcc8[m
+Author: mohammad <mohammadeng3731@gmail.com>
+Date:   Sun Jun 20 04:31:13 2021 -0700
+
+    Banner is not responsive
+
+[33mcommit 60eeaed0097552b6c3ccca676825de300f5bfe5d[m
+Author: mohammad <mohammadeng3731@gmail.com>
+Date:   Sun Jun 20 03:48:58 2021 -0700
+
+    index components created and import in index file
+
+[33mcommit fd36eda761fd9481c13ae323894d79c34e8b34af[m
+Author: mohammad <mohammadeng3731@gmail.com>
+Date:   Sun Jun 20 03:35:08 2021 -0700
+
+    footer link fixed
+
+[33mcommit 153ce9c2781382797a42efb496bdd9339808fb4d[m
+Author: mohammad <mohammadeng3731@gmail.com>
+Date:   Sun Jun 20 03:29:07 2021 -0700
+
+    all header a tags changed to nuxtlink
+
+[33mcommit 4791c89bdede35413960c2e2c74af15682658821[m
+Author: mohammad <mohammadeng3731@gmail.com>
+Date:   Sun Jun 20 03:18:32 2021 -0700
+
+    about page deleted
+
+[33mcommit 092267dab548c91f9f6e8293fca9b1bc03fc86e7[m
+Author: mohammad <mohammadeng3731@gmail.com>
+Date:   Sun Jun 20 03:13:16 2021 -0700
+
+    pages created
+
+[33mcommit 432353b0e42d89b5c22b2b41a4f6ffe23a201fcd[m
+Author: mohammad <mohammadeng3731@gmail.com>
+Date:   Sun Jun 20 02:35:41 2021 -0700
+
+    a tags in header are chenged to nuxtlink
+
+[33mcommit bce503a012c869159f45fae000ddd86d2806299a[m
+Author: mohammad <mohammadeng3731@gmail.com>
+Date:   Sun Jun 20 01:54:40 2021 -0700
+
+    blog and registerOrder component addet to project
+
+[33mcommit 691f3bf999da2882ef276e44fabb48a6a747ccd1[m
+Author: mohammad <mohammadeng3731@gmail.com>
+Date:   Sun Jun 20 01:50:11 2021 -0700
+
+    header and footer component moved
+
+[33mcommit 0bbac2b69ea9748a3a7af9f031791517287c0585[m
+Author: mohammad <mohammadeng3731@gmail.com>
+Date:   Sun Jun 20 01:30:56 2021 -0700
+
+    banner component created and banner section from index moved
+
+[33mcommit db3d0025e233fdf10a5083d7112922efdeeaea75[m
+Author: mohammad <mohammadeng3731@gmail.com>
+Date:   Sun Jun 20 01:16:50 2021 -0700
+
+    theme added to project and all css and js and font files added to project/owl-carousel is not workink
+
+[33mcommit c620de1090f5e729f682070004d2d8635b166b87[m[33m ([m[1;32mmaster[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: mohammad <mohammadeng3731@gmail.com>
+Date:   Sat Jun 19 06:01:10 2021 -0700
+
+    init project

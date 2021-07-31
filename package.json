@@ -1,0 +1,25 @@
+{
+  "name": "damdaran-pak",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@popperjs/core": "^2.9.2",
+    "bootstrap": "^5.0.1",
+    "core-js": "^3.9.1",
+    "jquery": "^3.6.0",
+    "nuxt": "^2.15.3",
+    "popper.js": "^1.16.1",
+    "vue": "^2.6.14",
+    "vue-carousel": "^0.18.0",
+    "vue-cookies": "^1.7.4",
+    "vuejs-noty": "^0.1.3",
+    "vuex": "^3.6.2"
+  }
+}
